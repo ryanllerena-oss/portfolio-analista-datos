@@ -1,7 +1,7 @@
 Exit code: 0
 Wall time: 1.9 seconds
 Output:
-# Portafolio â€” Arud Rayn SÃ¡nchez Llerena
+# Portafolio Arud Rayn Sanchez Llerena
 
 Portafolio profesional de Analista de Datos Jr., creado con HTML5, CSS3 y JavaScript puro.
 
