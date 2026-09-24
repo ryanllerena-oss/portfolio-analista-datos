@@ -11,7 +11,7 @@ Portafolio profesional de Analista de Datos Jr., creado con HTML5, CSS3 y JavaSc
 - Proyectos de Power BI, Excel, SQL Server, Google Apps Script, QA de datos y Java Swing.
 - DiseÃ±o oscuro, responsive y accesible.
 
-## PublicaciÃ³n
+## Publicación
 
 El sitio se publica automÃ¡ticamente mediante GitHub Pages desde la rama `main`.
 
